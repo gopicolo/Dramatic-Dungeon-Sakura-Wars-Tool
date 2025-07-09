@@ -64,7 +64,8 @@ repacked/        → Final repacked overlay files (output from `repack.py`)
 - You must provide the correct original files in the `input/` and `y9/` folders for the tools to work correctly.
 - The game has a kind of automatic line break, but it is not perfect for adding line breaks in texts add {0A}
 
-🈁 Shift-JIS Font Note
+## 🈁 Shift-JIS Font Note
+
 The game uses a Shift-JIS–based font. To add new characters (e.g. accented letters or symbols), you must edit the file:
 
 LD937714.dat
